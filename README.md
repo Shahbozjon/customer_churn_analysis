@@ -5,4 +5,4 @@ In todays commercial world competition is high and every customer is valuable. U
 This notebook presents a customer churn classification project using Logistic Regression, Support Vector Machines, Decision Tree, Random Forest, XGBoost and CatBoost models. The goal is to clasify whether customers will churn (leave) a subscription-based service.
 
 ## The Data
-The data is sourced from Kaggle (https://www.kaggle.com/code/wonderdavid/e-commerce-customer-churn-prediction/input?select=E+Commerce+Dataset.xlsx). Our dataset contains 5630 entries representing 5630 unique customers. There are 20 columns (target feature = 'Churn'). The features are numeric and categorical in nature, so we will need to address these differences before modeling.
+The data is sourced from Kaggle (https://www.kaggle.com/code/wonderdavid/e-commerce-customer-churn-prediction/input?select=E+Commerce+Dataset.xlsx). Our dataset contains `5630` entries representing `5630` unique customers. There are `20` columns (target feature = 'Churn'). The features are numeric and categorical in nature, so we will need to address these differences before modeling.
